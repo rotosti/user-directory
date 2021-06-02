@@ -2,8 +2,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
     Author: Tomasz Siemion
-    Link:
-    Deploy Link: 
+    Link: https://github.com/rotosti/user-directory
+    Deploy Link: https://rotosti.github.io/user-directory/
 
   ## Screen Cap
 
